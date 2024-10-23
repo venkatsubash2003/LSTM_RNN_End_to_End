@@ -1,4 +1,4 @@
-# 🧠 Next Word Prediction using GRU RNN
+# 🧠 Predicting Next Word in a Sentence using GRU RNN
 
 This project demonstrates a **Next Word Prediction** application built using a **Gated Recurrent Unit (GRU)** model. The model is trained on a text dataset to predict the next word given a sequence of input words. The web application is built using **Streamlit** to provide an interactive interface for users to enter text and get real-time word predictions.
 
