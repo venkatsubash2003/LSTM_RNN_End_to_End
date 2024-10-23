@@ -18,6 +18,7 @@ The project includes a user-friendly web application where users can input a seq
 - **Tokenizer** for converting input text into sequences, ensuring compatibility with the model.
 
 ## 📂 Project Structure
+```
 📂 LSTM_RNN_End_to_End/
 ├── 📁 models/
 │   ├── LSTM_RNN.h5                
@@ -30,7 +31,7 @@ The project includes a user-friendly web application where users can input a seq
 ├── app.py                   # Streamlit app source code
 ├── README.md                # Project documentation
 └── requirements.txt         # Required Python libraries
-
+```
 
 ## 🔍 Model Details
 
